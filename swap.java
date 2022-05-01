@@ -16,7 +16,7 @@ public class swap {
         a = b ;
         b = c ;
 
-        System.out.printf("After swaping \n%d %d",a,b);
+        System.out.printf("\nAfter swaping \n%d %d",a,b);
 
         sc.close();
     }
